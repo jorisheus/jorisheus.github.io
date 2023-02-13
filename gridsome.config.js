@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Joris Heus',
-  siteDescription: "My website",
+  siteDescription: "Website van Joris Heus",
   siteUrl: 'https://jorisheus.github.io',
   plugins: [
     {

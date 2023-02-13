@@ -1,62 +1,78 @@
 ---
-title: Troes retardat
-tags: tag1, tag2
-category: Digital
-excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia arva.
-created: 2019-01-10
-image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
-image_caption: Photo by Josh Spires on Unsplash
-author: author1, author2, author3
+title: Music
+tags: music
+category: Music
+excerpt: About my experience as a bass player.
+created: 2023-02-13
+image: ./images/joris-soulid.jpg
+image_caption: Photographer unknown
+author: jorisheus
 featured: true
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## Music
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+Making music started at the age of fifteen and quickly grew into my greatest passion. 
+As a bass player I always play in the service of the music and the group in which 
+I play. I think that's the best thing: when we can make music together that touches 
+people. And that arises when the group trusts one another and everyone is willing to 
+put his or her ego aside.
 
-## Eleis celeberrimus loci ait falsa infelix tuoque
+I play bass guitar and double bass in the following formations:
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
+- [SOULID!](https://www.soulid.nu) – Soul/pop band
+- [Neil Diamond Memories band](https://www.neildiamondmemories.com/) – De Nederlandse Neil Diamond Tribute band
+- [Me and the Martians](https://www.meandthemartians.com/) – Eigen werk band
 
-## Facundis quid
+![&copy; Peter Lodder](./images/joris-bas.jpg)
 
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
 
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
+> I have known Joris since 2006 as a very passionate and musical bass player.
+> The word "No" is not in his vocabulary, he is up for anything.
+> Whether it concerns a small background performance with double bass in a
+> trio or quartet formation, or as a bassist in a theater performance
+> (such as TOON: Liedjesman), as a co-composer/arranger in a singer-songwriter
+> band (Me & the Martians), or to lay a solid foundation under an 11-piece cover band,
+> he is at home in all markets. He has been my go-to bassist for years.
+>
+>
+> **Harrie Autumn, Musical director TOON: Liedjesman, composer / arranger / pianist.**
 
-## Et capienda Peneia
+### Experience
+I have been playing in various bands and projects since 2000. 
+I started playing electric guitar when I was fifteen. Two years later I started 
+playing bass guitar. I played both instruments for about ten years. 
+In 2007 double bass was added. I have a lot of experience reading music through 
+the many musical projects and big bands. I took lessons from Frank Mommers and 
+Ratko Zjaca on guitar, and from Berry Jansen on bass guitar. In addition, 
+I went to the Warwick bass camp in 2014, where I followed masterclasses from 
+Victor Wooten, Armand Sabal-Lecco and Victor Bailey, among others.
 
-*Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
-moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
-solet suum mihi penates quae. Cecidere *deo agger infantem* indetonsusque ipsum;
-ova formasque cornu et pectora [voce oculos](http://www.tibibene.io/iter.html),
-prodis pariterque sacra finibus, Sabinae. Fugarant fuerat, famam ait toto imas
-sorte pectora, est et, procubuit sua Appenninigenae habes postquam.
+I have played in:
 
-## Quoque aut gurgite aliquis igneus
+- Soul/funk/pop bands
+- Big bands
+- Jazz combos
+- Musical theater projects
+- Theater productions
+- Reggae bands
 
-Spatiosa ferax iam sis ex quae peperit iacentes, grates rogat quae senserat nec
-nec verba harenas inplent. Per dum necis in in versus quin loquendi latens;
-inde. **Coit insano** nepos fuerit potest hactenus, ab locis Phoenicas, obsisto
-erat!
 
-> Nec uterum Aurorae petentes abstulit. Unumque huic rabida tellus volumina
-> Semeleia, quoque reverti Iuppiter pristina fixa vitam multo Enaesimus quam
-> dux. Sua **damus** decipere, ut **obortas** nomen sine vestrae vita.
-
-Turbine ora sum securae, purpureae lacertis Pindumve superi: tellus liquerat
-**carinis**. Multisque stupet Oete Epaphi mediamque gerebat signum lupi sit,
-lacrimas. Tumidi fassusque hosti, deus [vixque desint
-dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
-tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
-vestigia est neu ignis in **illa mirantur agilis** densior.
+> I have known Joris Heus for about 15 years and we got to know each other through music. 
+> First as a talented guitarist during musicals and various big bands and later as a very 
+> good and skilled bass player. After doing our own projects for a few years, Joris and 
+> I have been playing together in the band SOULID for about 5 years now!
+> 
+> It is very nice to work with Joris. He has his affairs in order; always prepare well, 
+> work extremely hard both musically and organizationally and last but not least… you can 
+> always count on him! There are few people as committed as he is. Moreover, this strong 
+> commitment is always accompanied by a cheerful and positive attitude.
+> 
+> As a musician he adapts to what is best for the end result at that moment. 
+> This makes him very versatile as a musician. He can act very subservient to the greater 
+> whole, for example in the theater during an underscore for a scene or grooving when a 
+> fellow musician has a solo, but he can also certainly seize his moment in a solo or 
+> as a driving bass player in a so(u ) member laying foundation!
+> 
+> 
+> **Roos van Breukelen, Singer, Actress & Theater Maker.**

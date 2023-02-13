@@ -1,62 +1,26 @@
 {
   "headerNavigation": [
     {
-      "name": "Home",
+      "name": "Joris",
       "link": "/",
       "external": false
     },
     {
-      "name": "About",
-      "link": "/about-us",
+      "name": "Music",
+      "link": "/posts/music",
       "external": false
-    },
-    {
-      "name": "Getting started",
-      "link": "/category/getting-started",
-      "external": false
-    },
-    {
-      "name": "More",
-      "link": "#",
-      "children": [
-        {
-          "name": "Theme Repository",
-          "link": "https://www.github.com/jammeryhq/gridsome-starter-liebling",
-          "external": true
-        },
-        {
-          "name": "Gridsome Docs",
-          "link": "https://www.gridsome.org/docs",
-          "external": true
-        },
-         {
-           "name": "Internal Page ( About )",
-           "link": "/about-us",
-           "external": false
-         }
-      ]
     }
   ],
   "footerNavigation": [
     {
-      "name": "Latest Posts",
-      "link": "/",
-      "external" : false
-    },
-    {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jorisheus/",
       "external": true
     },
     {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
+      "name": "Github",
+      "link": "https://github.com/jorisheus",
       "external": true
-    },
-    {
-      "name": "RSS",
-      "link": "/rss.xml",
-      "external": false
     }
   ]
 }

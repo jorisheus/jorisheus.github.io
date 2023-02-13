@@ -1,18 +1,13 @@
 {
     "social" : [
         {
-            "name": "Facebook",
-            "link": "#",
-            "icon": "facebook-square"
-        },
-        {
-            "name": "Instagram",
-            "link": "#",
-            "icon": "instagram"
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/jorisheus/",
+            "icon": "linkedin-square"
         },
         {
             "name": "Github",
-            "link": "#",
+            "link": "https://github.com/jorisheus",
             "icon": "github"
         }
     ]

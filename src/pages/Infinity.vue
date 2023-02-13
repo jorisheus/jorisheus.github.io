@@ -101,7 +101,7 @@ import ContentHeader from "~/components/Partials/ContentHeader.vue";
 
 export default {
   metaInfo: {
-    title: "Hello, world!"
+    title: "Digital space of Joris Heus"
   },
   components: {
     CardItem,

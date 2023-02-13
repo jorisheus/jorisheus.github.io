@@ -1,9 +1,9 @@
 <template>
   <Layout>
       <content-header 
-        :title="$static.metadata.siteName" 
-        :sub="$static.metadata.siteDescription"
-        image="phoenix-han-Nqdh0G8rdCc-unsplash.jpg">
+        :title="'Hi, I am Joris'" 
+        :sub="'Welcome to this little digital space'"
+        image="2018-mountain-road.jpg">
       </content-header>
 
       <div class="container mx-auto">
@@ -95,7 +95,7 @@ import ContentHeader from "~/components/Partials/ContentHeader.vue";
 
 export default {
   metaInfo: {
-    title: "Hello, world!"
+    title: "Digital space of Joris Heus"
   },
   components: {
     CardItem,
