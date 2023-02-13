@@ -17,23 +17,6 @@
         <div class="w-full text-center">
           {{ $page.author.belongsTo.totalCount }} {{ postLabel }}
           &nbsp;&bull;&nbsp;
-          <a
-            :href="$page.author.facebook"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-gray-400 hover:text-white"
-          >
-            <font-awesome :icon="['fab', 'facebook']" />
-          </a>
-          &nbsp;
-          <a
-            :href="$page.author.twitter"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-gray-400 hover:text-white"
-          >
-            <font-awesome :icon="['fab', 'twitter']" />
-          </a>
           &nbsp;
           <a
             :href="$page.author.linkedin"
@@ -42,6 +25,14 @@
             class="text-gray-400 hover:text-white"
           >
             <font-awesome :icon="['fab', 'linkedin']" />
+          </a>
+          <a
+              :href="$page.author.github"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-gray-400 hover:text-white"
+          >
+            <font-awesome :icon="['fab', 'github']" />
           </a>
         </div>
       </div>
@@ -77,9 +68,8 @@
       bio
       image(width:150, height:150)
       cover
-      facebook
-      twitter
       linkedin
+      github
       belongsTo(perPage: 6, page: $page) @paginate {
         totalCount
         pageInfo {
